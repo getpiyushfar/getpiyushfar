@@ -83,6 +83,8 @@ Here are some ideas to get you started:
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=getpiyushfar&show_icons=true&locale=en&layout=compact" alt="getpiyushfar" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=getpiyushfar&show_icons=true&locale=en" alt="getpiyushfar" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=getpiyushfar&show_icons=true&locale=en" alt="getpiyushfar" /></p> -->
 
+
+## Achievements
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=getpiyushfar&" alt="getpiyushfar" /></p>
